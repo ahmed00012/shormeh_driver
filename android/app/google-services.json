@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "403212737435",
+    "firebase_url": "https://shormehnew-default-rtdb.firebaseio.com",
+    "project_id": "shormehnew",
+    "storage_bucket": "shormehnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403212737435:android:2886ac60627b6d93da5f3e",
+        "android_client_info": {
+          "package_name": "com.WorldDesigns.shormehDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403212737435-eg57v3joe5002j67k4bdjofkejee9i9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBflaVPfrblrU1Deye7d4eQkZBTcKc905I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403212737435-eg57v3joe5002j67k4bdjofkejee9i9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403212737435-arno70a5cc1u2h2u0vafji0ug32498kj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403212737435:android:3f9a67be777ff5acda5f3e",
+        "android_client_info": {
+          "package_name": "com.WorldDesigns.shormeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403212737435-eg57v3joe5002j67k4bdjofkejee9i9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBflaVPfrblrU1Deye7d4eQkZBTcKc905I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403212737435-eg57v3joe5002j67k4bdjofkejee9i9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403212737435-arno70a5cc1u2h2u0vafji0ug32498kj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

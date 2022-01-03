@@ -1,0 +1,62 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const login_translate = 'login_translate';
+  static const phone_hint_translate = 'phone_hint_translate';
+  static const password_hint_translate = 'password_hint_translate';
+  static const orders_translate = 'orders_translate';
+  static const new_translate = 'new_translate';
+  static const opened_translate = 'opened_translate';
+  static const my_location_translate = 'my_location_translate';
+  static const restaurant_translate = 'restaurant_translate';
+  static const customer_translate = 'customer_translate';
+  static const order_details_translate = 'order_details_translate';
+  static const online_translate = 'online_translate';
+  static const accept_translate = 'accept_translate';
+  static const reject_translate = 'reject_translate';
+  static const offline_translate = 'offline_translate';
+  static const delivered_translate = 'delivered_translate';
+  static const unable_to_delivered_translate = 'unable_to_delivered_translate';
+  static const no_requests_translate = 'no_requests_translate';
+  static const notifications_translate = 'notifications_translate';
+  static const home_translate = 'home_translate';
+  static const history_translate = 'history_translate';
+  static const log_Out_translate = 'log_Out_translate';
+  static const password_setting_translate = 'password_setting_translate';
+  static const old_pass_hint = 'old_pass_hint';
+  static const new_pass_hint = 'new_pass_hint';
+  static const change_pass_translate = 'change_pass_translate';
+  static const payment_method_translate = 'payment_method_translate';
+  static const delivery_translate = 'delivery_translate';
+  static const value_added_translate = 'value_added_translate';
+  static const total_amount_translate = 'total_amount_translate';
+  static const dis_code_translate = 'dis_code_translate';
+  static const dis_points_translate = 'dis_points_translate';
+  static const total_translate = 'total_translate';
+  static const additions_translate = 'additions_translate';
+  static const send_translate = 'send_translate';
+  static const sorry_translate = 'sorry_translate';
+  static const ok_translate = 'ok_translate';
+  static const language_translate = 'language_translate';
+  static const refresh_translate = 'refresh_translate';
+  static const add_notes_translate = 'add_notes_translate';
+  static const reason_translate = 'reason_translate';
+  static const rating_translate = 'rating_translate';
+  static const no_notification_translate = 'no_notification_translate';
+  static const exit_translate = 'exit_translate';
+  static const yes_translate = 'yes_translate';
+  static const no_translate = 'no_translate';
+  static const authorizationFailedMsg_notification_translate = 'authorizationFailedMsg_notification_translate';
+  static const empty_phone_translate = 'empty_phone_translate';
+  static const empty_pass_translate = 'empty_pass_translate';
+  static const short_pass_translate = 'short_pass_translate';
+  static const invalid_phone_translate = 'invalid_phone_translate';
+  static const options_translate = 'options_translate';
+  static const empty_translate = 'empty_translate';
+  static const order_no_translate = 'order_no_translate';
+  static const branch_name = 'branch_name';
+  static const no_additions_translate = 'no_additions_translate';
+  static const call_translate ='call_translate';
+  static const empty_reason_translate = 'empty_reason_translate';
+
+}
